@@ -6,6 +6,13 @@
   <a href="README_EN.md">English</a> · <b>中文</b>
 </p>
 
+### **下载 APK**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/xqe-bkflda/netspeed/main/install.sh | sh
+```
+
+
 <p align="center">
 [![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
   [![Stars](https://img.shields.io/github/stars/xqe-bkflda/netspeed?style=flat-square&color=8FA5BA)](https://github.com/xqe-bkflda/netspeed/stargazers)
