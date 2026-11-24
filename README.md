@@ -2,6 +2,10 @@
   <img src="assets/banner.png" alt="netspeed" width="100%">
 </div>
 
+<p align="right">
+  <a href="README_EN.md">English</a> · <b>中文</b>
+</p>
+
 <p align="center">
 [![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
   [![Stars](https://img.shields.io/github/stars/xqe-bkflda/netspeed?style=flat-square&color=8FA5BA)](https://github.com/xqe-bkflda/netspeed/stargazers)
